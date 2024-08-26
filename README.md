@@ -22,8 +22,6 @@ The full description of the dataset and the file can be obtained from: https://w
 3. Preprocessing
    - Standard scaling the data
    - Principal Component Analysis (PCA) dimensionality reduction to 3
-   - Lemmatization
-   - Punctuations removal and lowercasing of all texts
 
 4. Clustering
    - Elbow Method to determine the optimum amount of clusters
